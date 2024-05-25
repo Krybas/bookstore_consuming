@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<getBookOrdersResponse xmlns="http://lt.viko.eif/asilaikis/springsoap/gen">
+    <Books>
+        <Order id="1">
+            <client>
+                <id>1</id>
+                <First_name>Arnas</First_name>
+                <Last_name>Silaikis</Last_name>
+            </client>
+            <book>
+                <id>1</id>
+                <Book_name>Alchemikas</Book_name>
+                <First_name> Paulo</First_name>
+                <Last_name>Coelho</Last_name>
+                <Price>11,91</Price>
+            </book>
+        </Order>
+        <Order id="6">
+            <client>
+                <id>6</id>
+                <First_name>Laura</First_name>
+                <Last_name>Kazlauskienė</Last_name>
+            </client>
+            <book>
+                <id>1</id>
+                <Book_name>Alchemikas</Book_name>
+                <First_name> Paulo</First_name>
+                <Last_name>Coelho</Last_name>
+                <Price>11,91</Price>
+            </book>
+        </Order>
+    </Books>
+</getBookOrdersResponse>
